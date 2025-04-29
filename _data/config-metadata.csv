@@ -1,14 +1,15 @@
 field,display_name,browse_link,external_link
 title,Title,
-creator,Creator,
+artist,Artist,
+medium/technique,Medium/Technique,
 date,Date Created,
-description,Description,
+classification,Classification,
 subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
+nation of origin,Nation of Origin,
+description,Description,
+size,Size,
 source,Source
-identifier,Source Identifier,,
+object number,Taubman Object Number,,
 type,Type,
 format,Format,
 rights,Rights,
