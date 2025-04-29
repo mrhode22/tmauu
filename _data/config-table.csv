@@ -1,5 +1,8 @@
 field,display_name
 title,Title
+artist,Artist
+medium/technique,Medium/Technique
 date,Date
-description,Description
+classification,Classification
 subject,Subjects
+nation of origin,Nation of Origin
