@@ -1,5 +1,8 @@
 field,display_name,btn,hidden,sort_name
+artist,Artist,,,
+medium/technique,Medium/Technique,,true,
 date,Date,,,Date
-creator,Creator,,,
-subject,,true
-location,,true
+classification,Classification,,,Classification
+subject,,true,
+nation of origin,Nation of Origin,,,Nation of Origin
+
