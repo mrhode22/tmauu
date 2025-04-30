@@ -1,9 +1,11 @@
 field,index,display
 title,true,true
+date,true,true
+creator,true,false
+description,true,true
+subject,true,true
+location,true,false
 artist,true,true
 medium/technique,true,true
-date,true,true
 classification,true,false
-subject,true,true
-description,true,false
 object number,true,false
