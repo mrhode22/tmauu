@@ -39,6 +39,9 @@ Union University is a Christian liberal arts college located in Jackson, Tenness
 
 TMA collaborated with Virginia Tech (VT) to digitize its many works, beginning with items on permanent display. The digital collection is hosted in VT’s digital library, providing the museum with two advantages: first, that the collection can be accessed online, and second, that the items are preserved digitally. VT worked with TMA to send a photographer to the museum and take digital images for the online collection.
 
+## About Me
+
+## Technical Details
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
