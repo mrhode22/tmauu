@@ -1,7 +1,7 @@
 field,display_name
 title,Title
 artist,Artist
-medium/technique,Medium/Technique
+medium_technique,Medium/Technique
 date,Date
 classification,Classification
 subject,Subjects
