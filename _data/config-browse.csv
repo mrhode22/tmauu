@@ -1,6 +1,6 @@
 field,display_name,btn,hidden,sort_name
 artist,Artist,,,
-medium/technique,Medium/Technique,,true,
+medium_technique,Medium/Technique,,true,
 date,Date,,,Date
 classification,Classification,,,Classification
 subject,,true,,
