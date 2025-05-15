@@ -1,7 +1,7 @@
 field,display_name,browse_link,external_link
 title,Title,
 artist,Artist,
-medium/technique,Medium/Technique,
+medium_technique,Medium/Technique,
 date,Date Created,
 classification,Classification,
 subject,Subjects,true
